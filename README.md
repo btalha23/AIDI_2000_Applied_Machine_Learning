@@ -22,3 +22,17 @@ For all the models a variety of performance metrics, namely,
 6. ROC Curves with AUC
 
 were calculated and analyzed.
+
+## Lab #1: 
+### Task 1: Dataset selection
+    The Titanic Survival Prediction dataset was selected from all the available datasets, i.e., Iris dataset, Boston housing prices dataset, MINST dataset, wine quality dataset, & the Titanic dataset.
+### Task 2: Data preprocessing
+    A variety of steps associated with data preprocessing were performed. These steps included but were not limited to
+    1. performing of the data cleaning, like e.g., handling of the missing values, removing duplicates, etc.,
+    2. spliting the data into training and testing sets.
+### Task 3: Model Training and Evaluation
+    Gradient boosting & hist gradient boosting algorithms were the selected algorithms. Models were trained on the training dataset, evaluated using the model's performance using the testing dataset, and reported model's accuracy, precision, recall, and F1-score.
+### Task 4: Model Tuning and Optimization
+    Performed some hyperparameter tuning using grid search & cross-validation to improve model performance.
+### Task 5: Comparison & Conclusion
+    As the last step of the lab, a comparison of the tuned & untuned/ original model is presented, highlighting important findings.
