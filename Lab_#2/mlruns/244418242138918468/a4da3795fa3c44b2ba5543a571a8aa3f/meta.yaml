@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/a4da3795fa3c44b2ba5543a571a8aa3f/artifacts
+end_time: 1721436710311
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: a4da3795fa3c44b2ba5543a571a8aa3f
+run_name: beautiful-croc-642
+run_uuid: a4da3795fa3c44b2ba5543a571a8aa3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721436619029
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/787c28c424f143c0919ee6f4a7fa7fa1/artifacts
+end_time: 1721435697560
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 787c28c424f143c0919ee6f4a7fa7fa1
+run_name: learned-doe-160
+run_uuid: 787c28c424f143c0919ee6f4a7fa7fa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721435620905
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/0ad0a4df38aa41ebbeee85275f5cf663/artifacts
+end_time: 1721421288053
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 0ad0a4df38aa41ebbeee85275f5cf663
+run_name: thundering-midge-688
+run_uuid: 0ad0a4df38aa41ebbeee85275f5cf663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721421186749
+status: 3
+tags: []
+user_id: BatoolTalha

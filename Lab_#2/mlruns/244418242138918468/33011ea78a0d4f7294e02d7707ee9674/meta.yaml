@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/33011ea78a0d4f7294e02d7707ee9674/artifacts
+end_time: 1721431556610
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 33011ea78a0d4f7294e02d7707ee9674
+run_name: worried-ant-758
+run_uuid: 33011ea78a0d4f7294e02d7707ee9674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721431472758
+status: 3
+tags: []
+user_id: BatoolTalha

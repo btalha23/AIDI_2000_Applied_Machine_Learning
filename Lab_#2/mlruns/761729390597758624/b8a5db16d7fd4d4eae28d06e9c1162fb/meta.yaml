@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/761729390597758624/b8a5db16d7fd4d4eae28d06e9c1162fb/artifacts
+end_time: 1721363139444
+entry_point_name: ''
+experiment_id: '761729390597758624'
+lifecycle_stage: active
+run_id: b8a5db16d7fd4d4eae28d06e9c1162fb
+run_name: amazing-stag-179
+run_uuid: b8a5db16d7fd4d4eae28d06e9c1162fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721363094665
+status: 3
+tags: []
+user_id: BatoolTalha

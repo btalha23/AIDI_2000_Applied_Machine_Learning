@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/8777948a87c9434fb99cc48bb07b75e8/artifacts
+end_time: 1721444102064
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 8777948a87c9434fb99cc48bb07b75e8
+run_name: angry-snail-616
+run_uuid: 8777948a87c9434fb99cc48bb07b75e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721439401937
+status: 3
+tags: []
+user_id: BatoolTalha

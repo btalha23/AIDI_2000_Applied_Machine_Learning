@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/4215d57e77114ba1a27bf65caf5e04ae/artifacts
+end_time: 1721436394964
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 4215d57e77114ba1a27bf65caf5e04ae
+run_name: masked-fawn-906
+run_uuid: 4215d57e77114ba1a27bf65caf5e04ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721436354115
+status: 3
+tags: []
+user_id: BatoolTalha

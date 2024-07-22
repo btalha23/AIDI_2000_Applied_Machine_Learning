@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/a327c5f8b2d6409587b40204e5f39234/artifacts
+end_time: 1721439097069
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: a327c5f8b2d6409587b40204e5f39234
+run_name: vaunted-pug-4
+run_uuid: a327c5f8b2d6409587b40204e5f39234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721439057013
+status: 3
+tags: []
+user_id: BatoolTalha

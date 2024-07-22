@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/9a94ed59568c42868f0a4611b729d0c7/artifacts
+end_time: 1721437215361
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 9a94ed59568c42868f0a4611b729d0c7
+run_name: overjoyed-wolf-221
+run_uuid: 9a94ed59568c42868f0a4611b729d0c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437044968
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/e94e91fd01e34f7eb19a76ed6b8dc8f3/artifacts
+end_time: 1721438217199
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: e94e91fd01e34f7eb19a76ed6b8dc8f3
+run_name: nimble-colt-283
+run_uuid: e94e91fd01e34f7eb19a76ed6b8dc8f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438178060
+status: 3
+tags: []
+user_id: BatoolTalha

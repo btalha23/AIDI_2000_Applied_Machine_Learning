@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/c8c04074a9014f8b96883e55dd113dc4/artifacts
+end_time: 1721425409740
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: c8c04074a9014f8b96883e55dd113dc4
+run_name: magnificent-ant-869
+run_uuid: c8c04074a9014f8b96883e55dd113dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721425254105
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/b0f50395649c40ae9eed362eb506597d/artifacts
+end_time: 1721428621475
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: b0f50395649c40ae9eed362eb506597d
+run_name: resilient-wolf-726
+run_uuid: b0f50395649c40ae9eed362eb506597d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721428552095
+status: 3
+tags: []
+user_id: BatoolTalha

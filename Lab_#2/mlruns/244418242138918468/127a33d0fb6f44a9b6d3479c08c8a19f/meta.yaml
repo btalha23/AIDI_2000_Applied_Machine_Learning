@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/127a33d0fb6f44a9b6d3479c08c8a19f/artifacts
+end_time: 1721428986239
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 127a33d0fb6f44a9b6d3479c08c8a19f
+run_name: useful-squid-636
+run_uuid: 127a33d0fb6f44a9b6d3479c08c8a19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721428834287
+status: 3
+tags: []
+user_id: BatoolTalha

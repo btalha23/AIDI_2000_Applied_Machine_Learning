@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/bd103979d1124eeab9ea74f7472488fd/artifacts
+end_time: 1721436354093
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: bd103979d1124eeab9ea74f7472488fd
+run_name: stately-cow-155
+run_uuid: bd103979d1124eeab9ea74f7472488fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721436312771
+status: 3
+tags: []
+user_id: BatoolTalha

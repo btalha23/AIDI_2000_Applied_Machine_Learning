@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/761729390597758624/5b58e262c79f44ee910f2ccdea3e53ba/artifacts
+end_time: 1721390150430
+entry_point_name: ''
+experiment_id: '761729390597758624'
+lifecycle_stage: active
+run_id: 5b58e262c79f44ee910f2ccdea3e53ba
+run_name: able-ray-319
+run_uuid: 5b58e262c79f44ee910f2ccdea3e53ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721390133280
+status: 3
+tags: []
+user_id: BatoolTalha

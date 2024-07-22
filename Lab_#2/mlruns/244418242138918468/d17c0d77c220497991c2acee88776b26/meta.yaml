@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/d17c0d77c220497991c2acee88776b26/artifacts
+end_time: 1721438137186
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: d17c0d77c220497991c2acee88776b26
+run_name: luminous-flea-97
+run_uuid: d17c0d77c220497991c2acee88776b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437972299
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/38966fd50d514148b95464d9d6886431/artifacts
+end_time: 1721437296502
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 38966fd50d514148b95464d9d6886431
+run_name: delightful-goose-614
+run_uuid: 38966fd50d514148b95464d9d6886431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437256670
+status: 3
+tags: []
+user_id: BatoolTalha

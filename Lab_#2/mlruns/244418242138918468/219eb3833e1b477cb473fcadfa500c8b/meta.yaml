@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/219eb3833e1b477cb473fcadfa500c8b/artifacts
+end_time: 1721429139850
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 219eb3833e1b477cb473fcadfa500c8b
+run_name: vaunted-gnat-667
+run_uuid: 219eb3833e1b477cb473fcadfa500c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721428986275
+status: 3
+tags: []
+user_id: BatoolTalha

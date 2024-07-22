@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/66ec6272bb774b08b96efab50203721b/artifacts
+end_time: 1721426621760
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 66ec6272bb774b08b96efab50203721b
+run_name: rumbling-quail-44
+run_uuid: 66ec6272bb774b08b96efab50203721b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721426363461
+status: 3
+tags: []
+user_id: BatoolTalha

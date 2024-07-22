@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/39b5cf4465a647beb8a3deb1d62ab95b/artifacts
+end_time: 1721428685264
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 39b5cf4465a647beb8a3deb1d62ab95b
+run_name: rumbling-rat-741
+run_uuid: 39b5cf4465a647beb8a3deb1d62ab95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721428621513
+status: 3
+tags: []
+user_id: BatoolTalha

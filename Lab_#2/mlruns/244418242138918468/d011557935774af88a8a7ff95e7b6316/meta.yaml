@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/d011557935774af88a8a7ff95e7b6316/artifacts
+end_time: 1721421098226
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: d011557935774af88a8a7ff95e7b6316
+run_name: omniscient-robin-932
+run_uuid: d011557935774af88a8a7ff95e7b6316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721421054121
+status: 3
+tags: []
+user_id: BatoolTalha

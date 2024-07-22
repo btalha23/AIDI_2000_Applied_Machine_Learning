@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/26d2ad9d73a349b09f849958172254e3/artifacts
+end_time: 1721437336271
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 26d2ad9d73a349b09f849958172254e3
+run_name: bouncy-flea-647
+run_uuid: 26d2ad9d73a349b09f849958172254e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437296522
+status: 3
+tags: []
+user_id: BatoolTalha

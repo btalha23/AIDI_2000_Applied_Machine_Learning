@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/27fd48cd3f1c482ba2abc83c6dd9dad2/artifacts
+end_time: 1721422168725
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 27fd48cd3f1c482ba2abc83c6dd9dad2
+run_name: useful-chimp-427
+run_uuid: 27fd48cd3f1c482ba2abc83c6dd9dad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721422127765
+status: 3
+tags: []
+user_id: BatoolTalha

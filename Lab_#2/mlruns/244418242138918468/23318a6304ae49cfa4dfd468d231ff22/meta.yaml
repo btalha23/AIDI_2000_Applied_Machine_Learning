@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/23318a6304ae49cfa4dfd468d231ff22/artifacts
+end_time: 1721428834247
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 23318a6304ae49cfa4dfd468d231ff22
+run_name: upset-swan-440
+run_uuid: 23318a6304ae49cfa4dfd468d231ff22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721428685310
+status: 3
+tags: []
+user_id: BatoolTalha

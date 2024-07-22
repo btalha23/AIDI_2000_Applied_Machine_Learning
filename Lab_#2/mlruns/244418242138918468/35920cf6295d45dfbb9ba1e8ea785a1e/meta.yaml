@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/35920cf6295d45dfbb9ba1e8ea785a1e/artifacts
+end_time: 1721429442163
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 35920cf6295d45dfbb9ba1e8ea785a1e
+run_name: brawny-shrimp-844
+run_uuid: 35920cf6295d45dfbb9ba1e8ea785a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721429139869
+status: 3
+tags: []
+user_id: BatoolTalha

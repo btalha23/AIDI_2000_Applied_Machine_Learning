@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/76dd06c16a4e4a06be844c87902f2649/artifacts
+end_time: 1721430121076
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 76dd06c16a4e4a06be844c87902f2649
+run_name: efficient-ram-141
+run_uuid: 76dd06c16a4e4a06be844c87902f2649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721430050653
+status: 3
+tags: []
+user_id: BatoolTalha

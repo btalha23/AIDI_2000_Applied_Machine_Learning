@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/c8c4a60118eb4127b79670057827dd33/artifacts
+end_time: 1721430252794
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: c8c4a60118eb4127b79670057827dd33
+run_name: likeable-robin-308
+run_uuid: c8c4a60118eb4127b79670057827dd33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721430188755
+status: 3
+tags: []
+user_id: BatoolTalha

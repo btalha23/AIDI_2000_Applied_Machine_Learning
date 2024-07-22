@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/56831fc16a4947d2818a9a19a3a74054/artifacts
+end_time: 1721438518625
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 56831fc16a4947d2818a9a19a3a74054
+run_name: flawless-fly-941
+run_uuid: 56831fc16a4947d2818a9a19a3a74054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438432364
+status: 3
+tags: []
+user_id: BatoolTalha

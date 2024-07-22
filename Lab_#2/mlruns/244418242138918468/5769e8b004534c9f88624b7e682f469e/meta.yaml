@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/5769e8b004534c9f88624b7e682f469e/artifacts
+end_time: 1721437256654
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 5769e8b004534c9f88624b7e682f469e
+run_name: indecisive-shoat-948
+run_uuid: 5769e8b004534c9f88624b7e682f469e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437215379
+status: 3
+tags: []
+user_id: BatoolTalha

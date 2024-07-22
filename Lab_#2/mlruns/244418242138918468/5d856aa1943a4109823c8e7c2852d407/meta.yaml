@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/5d856aa1943a4109823c8e7c2852d407/artifacts
+end_time: 1721438258346
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 5d856aa1943a4109823c8e7c2852d407
+run_name: traveling-crane-858
+run_uuid: 5d856aa1943a4109823c8e7c2852d407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438217219
+status: 3
+tags: []
+user_id: BatoolTalha

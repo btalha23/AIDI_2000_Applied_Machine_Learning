@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/761729390597758624
+creation_time: 1721363093919
+experiment_id: '761729390597758624'
+last_update_time: 1721363093919
+lifecycle_stage: active
+name: Keras XOR Experiment

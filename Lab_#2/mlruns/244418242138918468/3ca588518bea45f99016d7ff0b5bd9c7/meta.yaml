@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/3ca588518bea45f99016d7ff0b5bd9c7/artifacts
+end_time: 1721422489692
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 3ca588518bea45f99016d7ff0b5bd9c7
+run_name: sassy-hog-913
+run_uuid: 3ca588518bea45f99016d7ff0b5bd9c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721422396688
+status: 3
+tags: []
+user_id: BatoolTalha

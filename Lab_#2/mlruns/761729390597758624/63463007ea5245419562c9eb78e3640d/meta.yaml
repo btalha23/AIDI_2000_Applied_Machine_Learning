@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/761729390597758624/63463007ea5245419562c9eb78e3640d/artifacts
+end_time: 1721389988894
+entry_point_name: ''
+experiment_id: '761729390597758624'
+lifecycle_stage: active
+run_id: 63463007ea5245419562c9eb78e3640d
+run_name: bright-colt-948
+run_uuid: 63463007ea5245419562c9eb78e3640d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721389958747
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/40e6b34e0ed04c8da3d2d14b5ed02564/artifacts
+end_time: 1721428180201
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 40e6b34e0ed04c8da3d2d14b5ed02564
+run_name: bouncy-hare-625
+run_uuid: 40e6b34e0ed04c8da3d2d14b5ed02564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721427882108
+status: 3
+tags: []
+user_id: BatoolTalha

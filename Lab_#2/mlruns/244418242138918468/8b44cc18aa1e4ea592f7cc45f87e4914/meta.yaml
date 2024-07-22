@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/8b44cc18aa1e4ea592f7cc45f87e4914/artifacts
+end_time: 1721436531386
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 8b44cc18aa1e4ea592f7cc45f87e4914
+run_name: tasteful-moth-358
+run_uuid: 8b44cc18aa1e4ea592f7cc45f87e4914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721436440297
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/11d741ad66db491abd323be3470ec331/artifacts
+end_time: 1721432116262
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 11d741ad66db491abd323be3470ec331
+run_name: stately-ray-879
+run_uuid: 11d741ad66db491abd323be3470ec331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721431852479
+status: 3
+tags: []
+user_id: BatoolTalha

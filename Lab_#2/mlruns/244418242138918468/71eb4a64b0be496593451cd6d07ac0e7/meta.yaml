@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/71eb4a64b0be496593451cd6d07ac0e7/artifacts
+end_time: 1721425610115
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 71eb4a64b0be496593451cd6d07ac0e7
+run_name: languid-mink-526
+run_uuid: 71eb4a64b0be496593451cd6d07ac0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721425540834
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/6b249ba681154daeac4c6bd24db1284f/artifacts
+end_time: 1721437523383
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 6b249ba681154daeac4c6bd24db1284f
+run_name: overjoyed-ray-190
+run_uuid: 6b249ba681154daeac4c6bd24db1284f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437430339
+status: 3
+tags: []
+user_id: BatoolTalha

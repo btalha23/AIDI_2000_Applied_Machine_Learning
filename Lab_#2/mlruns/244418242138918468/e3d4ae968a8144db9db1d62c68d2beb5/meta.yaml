@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/e3d4ae968a8144db9db1d62c68d2beb5/artifacts
+end_time: 1721426989438
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: e3d4ae968a8144db9db1d62c68d2beb5
+run_name: skillful-carp-829
+run_uuid: e3d4ae968a8144db9db1d62c68d2beb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721426923804
+status: 3
+tags: []
+user_id: BatoolTalha

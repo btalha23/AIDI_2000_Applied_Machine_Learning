@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/761729390597758624/79d78d854cf548afbcf86ea1818d7afa/artifacts
+end_time: 1721390309403
+entry_point_name: ''
+experiment_id: '761729390597758624'
+lifecycle_stage: active
+run_id: 79d78d854cf548afbcf86ea1818d7afa
+run_name: nebulous-eel-156
+run_uuid: 79d78d854cf548afbcf86ea1818d7afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721390281506
+status: 3
+tags: []
+user_id: BatoolTalha

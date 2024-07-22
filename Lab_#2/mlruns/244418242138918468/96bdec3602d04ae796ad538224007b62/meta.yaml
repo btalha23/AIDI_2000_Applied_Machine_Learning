@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/96bdec3602d04ae796ad538224007b62/artifacts
+end_time: 1721425472980
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 96bdec3602d04ae796ad538224007b62
+run_name: fearless-squid-810
+run_uuid: 96bdec3602d04ae796ad538224007b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721425409778
+status: 3
+tags: []
+user_id: BatoolTalha

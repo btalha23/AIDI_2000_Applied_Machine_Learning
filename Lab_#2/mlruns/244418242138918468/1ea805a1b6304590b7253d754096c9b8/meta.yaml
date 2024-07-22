@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/1ea805a1b6304590b7253d754096c9b8/artifacts
+end_time: 1721421726968
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 1ea805a1b6304590b7253d754096c9b8
+run_name: traveling-swan-224
+run_uuid: 1ea805a1b6304590b7253d754096c9b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721421542393
+status: 3
+tags: []
+user_id: BatoolTalha

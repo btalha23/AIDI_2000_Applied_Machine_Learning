@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/efbfeab064aa476fb95973a6316c2ef7/artifacts
+end_time: 1721439401910
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: efbfeab064aa476fb95973a6316c2ef7
+run_name: delicate-smelt-743
+run_uuid: efbfeab064aa476fb95973a6316c2ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721439311794
+status: 3
+tags: []
+user_id: BatoolTalha
