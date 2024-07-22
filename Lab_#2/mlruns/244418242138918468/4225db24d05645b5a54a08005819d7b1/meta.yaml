@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/4225db24d05645b5a54a08005819d7b1/artifacts
+end_time: 1721420941982
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 4225db24d05645b5a54a08005819d7b1
+run_name: languid-dog-803
+run_uuid: 4225db24d05645b5a54a08005819d7b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721420897039
+status: 4
+tags: []
+user_id: BatoolTalha

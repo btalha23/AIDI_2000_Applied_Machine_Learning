@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/ec47cfb9cecb43a4b361feda59e9de6e/artifacts
+end_time: 1721439225553
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: ec47cfb9cecb43a4b361feda59e9de6e
+run_name: gaudy-smelt-713
+run_uuid: ec47cfb9cecb43a4b361feda59e9de6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721439137857
+status: 3
+tags: []
+user_id: BatoolTalha

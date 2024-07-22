@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/a9edc77c8daf43698958dbe6351251c0/artifacts
+end_time: 1721438683498
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: a9edc77c8daf43698958dbe6351251c0
+run_name: resilient-loon-512
+run_uuid: a9edc77c8daf43698958dbe6351251c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438518641
+status: 3
+tags: []
+user_id: BatoolTalha

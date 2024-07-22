@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/81d7985892574801b191514a483adda9/artifacts
+end_time: 1721427428688
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 81d7985892574801b191514a483adda9
+run_name: unruly-robin-699
+run_uuid: 81d7985892574801b191514a483adda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721427273099
+status: 3
+tags: []
+user_id: BatoolTalha

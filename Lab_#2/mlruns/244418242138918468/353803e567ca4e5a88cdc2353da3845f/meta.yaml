@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/353803e567ca4e5a88cdc2353da3845f/artifacts
+end_time: 1721439017473
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 353803e567ca4e5a88cdc2353da3845f
+run_name: rumbling-hawk-347
+run_uuid: 353803e567ca4e5a88cdc2353da3845f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438846785
+status: 3
+tags: []
+user_id: BatoolTalha

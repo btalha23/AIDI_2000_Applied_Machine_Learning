@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/d4db079a40ba48978726bfa5f33f0b14/artifacts
+end_time: 1721432521653
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: d4db079a40ba48978726bfa5f33f0b14
+run_name: calm-foal-471
+run_uuid: d4db079a40ba48978726bfa5f33f0b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721432440444
+status: 3
+tags: []
+user_id: BatoolTalha

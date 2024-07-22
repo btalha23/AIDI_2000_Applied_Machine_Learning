@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/a5c5c4748f0b4ccca09b3c9ab3787d8c/artifacts
+end_time: 1721437613593
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: a5c5c4748f0b4ccca09b3c9ab3787d8c
+run_name: awesome-yak-165
+run_uuid: a5c5c4748f0b4ccca09b3c9ab3787d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437523406
+status: 3
+tags: []
+user_id: BatoolTalha

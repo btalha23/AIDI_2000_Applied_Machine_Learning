@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/fe266d6a55624d4fbae8482eceff9ded/artifacts
+end_time: 1721438178041
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: fe266d6a55624d4fbae8482eceff9ded
+run_name: treasured-grub-482
+run_uuid: fe266d6a55624d4fbae8482eceff9ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438137205
+status: 3
+tags: []
+user_id: BatoolTalha

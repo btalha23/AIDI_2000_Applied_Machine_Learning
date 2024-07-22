@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/b62ef5c3e2a844358ee105c52421cb37/artifacts
+end_time: 1721432440399
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: b62ef5c3e2a844358ee105c52421cb37
+run_name: rogue-snake-236
+run_uuid: b62ef5c3e2a844358ee105c52421cb37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721432116279
+status: 3
+tags: []
+user_id: BatoolTalha

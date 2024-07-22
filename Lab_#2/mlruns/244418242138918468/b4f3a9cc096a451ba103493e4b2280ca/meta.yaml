@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/b4f3a9cc096a451ba103493e4b2280ca/artifacts
+end_time: 1721427273054
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: b4f3a9cc096a451ba103493e4b2280ca
+run_name: sedate-skunk-490
+run_uuid: b4f3a9cc096a451ba103493e4b2280ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721427120310
+status: 3
+tags: []
+user_id: BatoolTalha

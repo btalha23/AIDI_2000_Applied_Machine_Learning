@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/c76d342de8d94b57b2116329fbdb0c03/artifacts
+end_time: 1721430050614
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: c76d342de8d94b57b2116329fbdb0c03
+run_name: blushing-goat-689
+run_uuid: c76d342de8d94b57b2116329fbdb0c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721429746300
+status: 3
+tags: []
+user_id: BatoolTalha

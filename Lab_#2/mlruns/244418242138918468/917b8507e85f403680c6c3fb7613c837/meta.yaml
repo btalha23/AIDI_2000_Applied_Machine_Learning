@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/917b8507e85f403680c6c3fb7613c837/artifacts
+end_time: 1721431641671
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 917b8507e85f403680c6c3fb7613c837
+run_name: amazing-fowl-472
+run_uuid: 917b8507e85f403680c6c3fb7613c837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721431556626
+status: 3
+tags: []
+user_id: BatoolTalha

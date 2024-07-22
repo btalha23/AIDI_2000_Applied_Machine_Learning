@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/d690e38c0b714c34a7c66c63b0254a10/artifacts
+end_time: 1721426923766
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: d690e38c0b714c34a7c66c63b0254a10
+run_name: sincere-rook-564
+run_uuid: d690e38c0b714c34a7c66c63b0254a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721426621798
+status: 3
+tags: []
+user_id: BatoolTalha

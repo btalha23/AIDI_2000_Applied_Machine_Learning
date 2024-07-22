@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/bb70f5305a7841bea4e15a533292867a/artifacts
+end_time: 1721427882069
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: bb70f5305a7841bea4e15a533292867a
+run_name: illustrious-gull-639
+run_uuid: bb70f5305a7841bea4e15a533292867a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721427583145
+status: 3
+tags: []
+user_id: BatoolTalha

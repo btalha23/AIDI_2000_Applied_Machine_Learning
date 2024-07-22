@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/939e1a82318d449babe337d7651d7fdd/artifacts
+end_time: 1721427120274
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 939e1a82318d449babe337d7651d7fdd
+run_name: judicious-dog-812
+run_uuid: 939e1a82318d449babe337d7651d7fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721427054810
+status: 3
+tags: []
+user_id: BatoolTalha

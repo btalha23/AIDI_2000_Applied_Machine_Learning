@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/57a80b80e3ac4294a515d288a8df5163/artifacts
+end_time: 1721425766813
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 57a80b80e3ac4294a515d288a8df5163
+run_name: useful-tern-642
+run_uuid: 57a80b80e3ac4294a515d288a8df5163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721425610152
+status: 3
+tags: []
+user_id: BatoolTalha

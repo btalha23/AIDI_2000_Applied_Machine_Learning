@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/9e8d425b40a64440b8ae9e67d52b77a7/artifacts
+end_time: 1721436619012
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 9e8d425b40a64440b8ae9e67d52b77a7
+run_name: dashing-gnu-535
+run_uuid: 9e8d425b40a64440b8ae9e67d52b77a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721436531411
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/c1f961d23f7a43d58ecf33a9495aa3b9/artifacts
+end_time: 1721437972279
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: c1f961d23f7a43d58ecf33a9495aa3b9
+run_name: gaudy-gnu-506
+run_uuid: c1f961d23f7a43d58ecf33a9495aa3b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437792727
+status: 3
+tags: []
+user_id: BatoolTalha

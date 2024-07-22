@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/4098d93ba4cd49dbbad2bf4fa8dad2f3/artifacts
+end_time: 1721435974985
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 4098d93ba4cd49dbbad2bf4fa8dad2f3
+run_name: invincible-fly-810
+run_uuid: 4098d93ba4cd49dbbad2bf4fa8dad2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721435778820
+status: 3
+tags: []
+user_id: BatoolTalha

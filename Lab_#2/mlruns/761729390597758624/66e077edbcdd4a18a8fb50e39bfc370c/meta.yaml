@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/761729390597758624/66e077edbcdd4a18a8fb50e39bfc370c/artifacts
+end_time: 1721390114529
+entry_point_name: ''
+experiment_id: '761729390597758624'
+lifecycle_stage: active
+run_id: 66e077edbcdd4a18a8fb50e39bfc370c
+run_name: spiffy-carp-87
+run_uuid: 66e077edbcdd4a18a8fb50e39bfc370c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721390084915
+status: 3
+tags: []
+user_id: BatoolTalha

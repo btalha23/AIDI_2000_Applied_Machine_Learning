@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/e2f88298a57a47869ead745f6bfb2102/artifacts
+end_time: 1721427054775
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: e2f88298a57a47869ead745f6bfb2102
+run_name: placid-bee-434
+run_uuid: e2f88298a57a47869ead745f6bfb2102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721426989478
+status: 3
+tags: []
+user_id: BatoolTalha

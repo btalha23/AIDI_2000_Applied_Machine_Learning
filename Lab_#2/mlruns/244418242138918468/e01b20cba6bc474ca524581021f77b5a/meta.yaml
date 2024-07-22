@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/e01b20cba6bc474ca524581021f77b5a/artifacts
+end_time: 1721431313695
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: e01b20cba6bc474ca524581021f77b5a
+run_name: masked-calf-973
+run_uuid: e01b20cba6bc474ca524581021f77b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721431273449
+status: 3
+tags: []
+user_id: BatoolTalha

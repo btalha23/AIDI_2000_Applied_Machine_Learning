@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/c940dac7428b4d3eb8429190af08ee32/artifacts
+end_time: 1721430723782
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: c940dac7428b4d3eb8429190af08ee32
+run_name: ambitious-rat-155
+run_uuid: c940dac7428b4d3eb8429190af08ee32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721430565191
+status: 3
+tags: []
+user_id: BatoolTalha

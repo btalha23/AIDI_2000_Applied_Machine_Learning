@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/91b3d4ff51914aeaac78fbb0f12514f6/artifacts
+end_time: 1721438846753
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 91b3d4ff51914aeaac78fbb0f12514f6
+run_name: casual-bass-702
+run_uuid: 91b3d4ff51914aeaac78fbb0f12514f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438683514
+status: 3
+tags: []
+user_id: BatoolTalha

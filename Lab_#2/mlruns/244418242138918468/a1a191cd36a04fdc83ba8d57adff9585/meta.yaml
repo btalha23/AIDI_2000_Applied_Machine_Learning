@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/a1a191cd36a04fdc83ba8d57adff9585/artifacts
+end_time: 1721418639157
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: a1a191cd36a04fdc83ba8d57adff9585
+run_name: amazing-bat-109
+run_uuid: a1a191cd36a04fdc83ba8d57adff9585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721418639085
+status: 4
+tags: []
+user_id: BatoolTalha

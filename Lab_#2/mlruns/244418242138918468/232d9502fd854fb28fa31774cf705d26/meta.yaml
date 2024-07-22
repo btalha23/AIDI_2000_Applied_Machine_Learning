@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/232d9502fd854fb28fa31774cf705d26/artifacts
+end_time: 1721420652352
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 232d9502fd854fb28fa31774cf705d26
+run_name: whimsical-chimp-171
+run_uuid: 232d9502fd854fb28fa31774cf705d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721420610276
+status: 4
+tags: []
+user_id: BatoolTalha

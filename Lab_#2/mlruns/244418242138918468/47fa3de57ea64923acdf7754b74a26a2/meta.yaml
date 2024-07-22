@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/47fa3de57ea64923acdf7754b74a26a2/artifacts
+end_time: 1721428552056
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 47fa3de57ea64923acdf7754b74a26a2
+run_name: orderly-sow-447
+run_uuid: 47fa3de57ea64923acdf7754b74a26a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721428482266
+status: 3
+tags: []
+user_id: BatoolTalha

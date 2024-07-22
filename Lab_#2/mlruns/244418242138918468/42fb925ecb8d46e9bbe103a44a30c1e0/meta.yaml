@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/42fb925ecb8d46e9bbe103a44a30c1e0/artifacts
+end_time: 1721425254087
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 42fb925ecb8d46e9bbe103a44a30c1e0
+run_name: ambitious-stag-138
+run_uuid: 42fb925ecb8d46e9bbe103a44a30c1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721422680177
+status: 3
+tags: []
+user_id: BatoolTalha

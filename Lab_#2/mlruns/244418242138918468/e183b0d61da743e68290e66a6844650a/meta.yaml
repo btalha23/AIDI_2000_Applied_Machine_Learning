@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/e183b0d61da743e68290e66a6844650a/artifacts
+end_time: 1721435555271
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: e183b0d61da743e68290e66a6844650a
+run_name: skillful-perch-293
+run_uuid: e183b0d61da743e68290e66a6844650a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721432605929
+status: 3
+tags: []
+user_id: BatoolTalha

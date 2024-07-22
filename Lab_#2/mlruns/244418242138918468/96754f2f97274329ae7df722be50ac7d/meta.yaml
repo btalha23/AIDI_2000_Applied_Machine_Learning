@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/96754f2f97274329ae7df722be50ac7d/artifacts
+end_time: 1721436142665
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 96754f2f97274329ae7df722be50ac7d
+run_name: industrious-pug-80
+run_uuid: 96754f2f97274329ae7df722be50ac7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721435975000
+status: 3
+tags: []
+user_id: BatoolTalha

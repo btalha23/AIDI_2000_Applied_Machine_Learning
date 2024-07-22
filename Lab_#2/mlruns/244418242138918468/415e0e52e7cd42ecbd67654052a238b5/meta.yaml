@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/415e0e52e7cd42ecbd67654052a238b5/artifacts
+end_time: 1721421542377
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 415e0e52e7cd42ecbd67654052a238b5
+run_name: serious-ray-680
+run_uuid: 415e0e52e7cd42ecbd67654052a238b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721421444581
+status: 3
+tags: []
+user_id: BatoolTalha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/201307298a0b48a8b924c24eef6e872d/artifacts
+end_time: 1721444421370
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: 201307298a0b48a8b924c24eef6e872d
+run_name: colorful-swan-701
+run_uuid: 201307298a0b48a8b924c24eef6e872d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721444264104
+status: 3
+tags: []
+user_id: BatoolTalha

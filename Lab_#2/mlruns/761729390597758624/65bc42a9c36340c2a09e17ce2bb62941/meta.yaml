@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/761729390597758624/65bc42a9c36340c2a09e17ce2bb62941/artifacts
+end_time: 1721390054626
+entry_point_name: ''
+experiment_id: '761729390597758624'
+lifecycle_stage: active
+run_id: 65bc42a9c36340c2a09e17ce2bb62941
+run_name: caring-toad-270
+run_uuid: 65bc42a9c36340c2a09e17ce2bb62941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721390036105
+status: 3
+tags: []
+user_id: BatoolTalha

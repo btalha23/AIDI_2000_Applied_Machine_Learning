@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244418242138918468/f81a9dcd7f2c42b1b3ad46462d484e4f/artifacts
+end_time: 1721419157603
+entry_point_name: ''
+experiment_id: '244418242138918468'
+lifecycle_stage: active
+run_id: f81a9dcd7f2c42b1b3ad46462d484e4f
+run_name: smiling-pig-341
+run_uuid: f81a9dcd7f2c42b1b3ad46462d484e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721419120027
+status: 4
+tags: []
+user_id: BatoolTalha
